@@ -1,6 +1,8 @@
 # python-Crud-in-Api
 The CRUD operations in Django restframework API
+
 http://127.0.0.1:8000
+
 Main Page : -
 -------------------------------
 ![main](https://user-images.githubusercontent.com/34789553/61040413-20d6c200-a3ee-11e9-838f-3717dc4c0336.png)
